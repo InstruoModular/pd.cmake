@@ -4,3 +4,4 @@ Binaries
 *.so
 Examples/_build
 _build
+dev/
